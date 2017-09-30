@@ -5,5 +5,3 @@
 Some text some text
 
 [Follow Sejel Technology](http://www.sejeltech.com)
-
-just do some change
